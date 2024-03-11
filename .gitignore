@@ -3,3 +3,6 @@ dƒt/
 data/ 
 outputs/ 
 .venv/ 
+/data
+/models
+/outputs
