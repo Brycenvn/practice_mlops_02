@@ -1,4 +1,4 @@
-name: Test code and app for practice
+name: Test code and app for test Githubaction
 on:
   pull_request:
     paths:
