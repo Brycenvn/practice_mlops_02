@@ -1,4 +1,4 @@
-name: Test code and app
+name: Test code and app for practice
 on:
   pull_request:
     paths:
